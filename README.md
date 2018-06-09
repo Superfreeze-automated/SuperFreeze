@@ -6,7 +6,7 @@ We are moving to GitLab!
 
 Please visit https://gitlab.com/SuperFreezeApp/SuperFreeze
 
-Recently, Microsoft has acquired GitHub. We value Microsoft's efforts to become more involved with the Open Source world, but it is just too many disadvantages GitHub has now:
+Recently, Microsoft has acquired GitHub. We value Microsoft's efforts to become more involved with the Open Source world, but there are just too many disadvantages GitHub has now:
 
 * It is one central, powerful instance
 * It is owned by a powerful company (Microsoft)
