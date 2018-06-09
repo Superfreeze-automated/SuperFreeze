@@ -1,7 +1,25 @@
 SuperFreeze
 ===========
 
-[![codebeat badge](https://codebeat.co/badges/8eda9dcf-2c53-45db-b9ac-65a2242f3e1b)](https://codebeat.co/projects/github-com-superfreezeapp-superfreeze-master) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7ccff0033e7740948b8b06c243f40807)](https://www.codacy.com/app/hocceruser-github/SuperFreeze?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SuperFreezeApp/SuperFreeze&amp;utm_campaign=Badge_Grade)
+We are moving to GitLab!
+------------------------
+
+Please visit https://gitlab.com/SuperFreezeApp/SuperFreeze
+
+Recently, Microsoft has acquired GitHub. We value Microsoft's efforts to become more involved with the Open Source world, but it is just too many disadvantages GitHub has now:
+
+* It is one central, powerful instance
+* It is owned by a powerful company (Microsoft)
+* GitHub's source code is not Open Source itself
+* You have to pay if you want to host your own GitHub instance
+* Microsoft has a bunch of other bad habits like paying too few taxes in many countries.
+
+You may open issues and pull requests here, if you want to, but if possible, please use the GitLab page as this makes things far simpler for us. Also, the source code here might be outdated.
+
+By the way, Google also has many of these disadvantages, therefore we encourage everyone to use use a custom ROM like [LineageOS](https://www.lineageos.org/) instead of the "normal" Android.
+
+Description
+-----------
 
 An android app that makes it possible to entirely stop all background activities of an app.
 Currently, the user has to force stop apps by hand, SuperFreeze only shows the app settings page.
